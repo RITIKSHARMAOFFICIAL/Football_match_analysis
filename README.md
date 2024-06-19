@@ -1,6 +1,7 @@
 # Football Match Analysis
 
-![screenshot](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/assets/96929769/6663b720-e60b-4eab-8783-0cf0b93d882c)
+![screenshot](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/assets/96929769/659fe4b3-69c7-432e-88e8-5851ff08c681)
+
 
 ## Introduction
 
