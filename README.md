@@ -1,7 +1,3 @@
-Here's a more appealing and detailed version of the README file:
-
----
-
 # Football Match Analysis
 
 ![screenshot](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/assets/96929769/6663b720-e60b-4eab-8783-0cf0b93d882c)
@@ -72,16 +68,5 @@ To run this project, ensure you have the following dependencies installed:
 
 ## Contributing
 
-We welcome contributions to enhance this project! Feel free to open issues or submit pull requests.
+I welcome contributions to enhance this project! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries or further information, please contact [Your Name](mailto:your.email@example.com).
-
----
-
-This enhanced README provides a clear structure, additional details, and formatted links for easy navigation. Let me know if there are any other specific details you'd like to include!
