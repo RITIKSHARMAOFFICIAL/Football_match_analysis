@@ -1,7 +1,6 @@
 # Football Match Analysis
 
-![screenshot](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/assets/96929769/659fe4b3-69c7-432e-88e8-5851ff08c681)
-
+![screenshot](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/assets/96929769/6663b720-e60b-4eab-8783-0cf0b93d882c)
 
 ## Introduction
 
@@ -31,10 +30,20 @@ This project leverages several powerful modules to achieve its goals:
 The trained models for this project can be accessed via the following link:
 [Download Trained Models](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
-## Sample Video
+## Input Video
 
-To see the model in action, check out this sample video:
-[Watch Sample Video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+The video used for training the model can be accessed via the following link:
+[Download Input Video](https://drive.google.com/file/d/1NMkSqE30TF3aKrrQ31-K32MDJIxH1WIM/view?usp=drive_link)
+
+## Sample Output Video
+
+To see the model in action, check out this sample output video:
+[Download Output Video](https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis/blob/main/output_video.avi)
+
+## Project Files
+
+All the files related to this project can be accessed via the following link:
+[Download Project Files](https://drive.google.com/drive/folders/1K-5ouOQN-AjKFbQrU0lUwB5GXpgP-Yjs?usp=drive_link)
 
 ## Requirements
 
@@ -50,7 +59,7 @@ To run this project, ensure you have the following dependencies installed:
 
 ## Getting Started
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/RITIKSHARMAOFFICIAL/Football_match_analysis.git
    ```
@@ -71,3 +80,6 @@ To run this project, ensure you have the following dependencies installed:
 
 I welcome contributions to enhance this project! Feel free to open issues or submit pull requests.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
